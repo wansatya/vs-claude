@@ -40,10 +40,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/code-iterative.git
+git clone https://github.com/wansatya/vs-claude.git
 
 # Navigate to the project directory
-cd code-iterative
+cd vs-claude
 
 # Install dependencies
 npm install
